@@ -14,18 +14,15 @@
 <br>
 ##
 <br>
+
 <div>
-
-## 📊 GitHub Stats
-  <a href="https://github.com/antoniocariocajr">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=antoniocariocajr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-<br>
-
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocariocajr&&layout=compact&hide=shell&theme=dark"/>
   
+## 📊 GitHub Stats
+  
+  <a href="https://github.com/antoniocariocajr">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocariocajr&layout=compact&langs_count=7&theme=dark"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniocariocajr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
 
 ## 💻 Skills
 <div style="display: inline_block"><br>
