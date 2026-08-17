@@ -6,109 +6,85 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Antonio+Carioca+Junior+%F0%9F%91%8B;Apaixonado+por+tecnologia;Desenvolvedo+Full-Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Antonio+Carioca+Junior+%F0%9F%91%8B;Apaixonado+por+tecnologia;Desenvolvedo+Back-End+junior" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <h3>💻 Sobre Mim</h3>
-  <p>
-    Sou um desenvolvedor apaixonado por tecnologia, movido por desafios e aprendizado contínuo.
-    Adoro transformar ideias complexas em soluções elegantes e eficientes.
-  </p>
-  
-  <p>
-    🔭 Atualmente trabalhando com **Back-End** e **Front-End**.<br>
-    🌱 Desenvolvendo em **Java**, **JavaScript**, **MySQL** e **MongoDB**.<br>
-    ⚡ Curiosidade: Eu amo resolver problemas complexos e aprender novas tecnologias.
-  </p>
-</div>
+<h2 align="center">Desenvolvedor Back-End Júnior em formação | Java · Spring Boot · Node.js</h2>
 
-<br>
+<p align="center">
+  Em transição de carreira: da gestão administrativa para o desenvolvimento de software.
+  Apaixonado por lógica, resolução de problemas e aprendizado contínuo.
+</p>
 
-<div align="center">
-  <h3>🔗 Conecte-se comigo</h3>
-  <a href="https://github.com/antoniocariocajr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/antonio-carioca-jr/">
+---
+
+### 💻 Sobre Mim
+
+- 🎓 Estudante de **Ciência da Computação** (UNOPAR), com foco em **Back-End** e **Full-Stack**
+- 🔄 Em transição de carreira: quase 6 anos de experiência em **gestão administrativa e liderança de equipes**, hoje redirecionados para tecnologia
+- 🌱 Construindo minha base técnica em **Java, Spring Boot, Node.js e TypeScript**
+- 🚀 Já apliquei esses conhecimentos em projetos práticos como uma API REST com autenticação OAuth2
+- ⚡ Curiosidade: gosto de transformar problemas complexos em soluções simples e organizadas
+- 🎯 Buscando oportunidade de **estágio ou vaga júnior em Back-End**
+
+---
+
+### 🔗 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/antonio-carioca-jr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:antoniocariocajr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-</div>
+  <a href="https://github.com/antoniocariocajr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
-<br>
+---
 
-<div align="center">
-  <h3>� Estatísticas</h3>
-  <br>
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td style="border: none; padding-right: 20px;">
-        <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocariocajr&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
-      </td>
-      <td style="border: none;">
-        <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=antoniocariocajr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🛠️ Tech Stack
 
-<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+</p>
 
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+---
 
-<br>
+### 🚀 Principais Projetos
 
-<div align="center">
-  <h3>🚀 Principais Projetos</h3>
-  <table border="0">
-    <tr>
-      <td width="33%" align="center">
-        <a href="https://github.com/antoniocariocajr/pokemon-api">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniocariocajr&repo=pokemon-api&bg_color=1F222E&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=true" />
-        </a>
-        <br>
-        <strong>Pokemon API</strong>
-        <br>
-        Projeto Angular consumindo a PokeApi. Prática de conceitos de front-end modernos.
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/antoniocariocajr/parking-control">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniocariocajr&repo=parking-control&bg_color=1F222E&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=true" />
-        </a>
-        <br>
-        <strong>Parking Control</strong>
-        <br>
-        Solução robusta para gestão de estacionamentos. Controle de vagas, pagamentos e clientes.
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/antoniocariocajr/school_api">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniocariocajr&repo=school_api&bg_color=1F222E&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=true" />
-        </a>
-        <br>
-        <strong>School API</strong>
-        <br>
-        API REST (Spring Boot 3 + OAuth2) para gestão escolar completa, do financeiro aos boletins.
-      </td>
-    </tr>
-  </table>
-</div>
+**[School API](https://github.com/antoniocariocajr/school_api)**
+API REST completa para gestão escolar, construída com Spring Boot 3, Java 17 e Spring Security com OAuth2. Inclui matrículas, boletins, controle financeiro e documentação via Swagger UI.
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+**[Parking Control](https://github.com/antoniocariocajr/parking-control)**
+Solução para gestão de estacionamentos, com controle de vagas, pagamentos e clientes.
+
+**[Pokemon API](https://github.com/antoniocariocajr/pokemon-api)**
+Projeto front-end em Angular consumindo a PokeAPI, praticando consumo de APIs REST e componentização.
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocariocajr&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniocariocajr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Aberto a oportunidades de estágio ou vaga júnior em desenvolvimento Back-End ou Full-Stack 🚀</i></p>
